@@ -4,4 +4,4 @@ This is my first git demo project
 
 ## HEADING 2
 
-This isn't much of a problem
+This is bound to cause trouble
